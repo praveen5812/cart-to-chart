@@ -6,8 +6,8 @@ A complete end-to-end data analysis project analyzing customer shopping behavior
 
 ## 📊 Dashboard Preview
 
-![Customer Behavior Dashboard](<img width="1346" height="741" alt="image" src="https://github.com/user-attachments/assets/dd83eb49-7e4a-45de-aeaa-9f20d7b0f6ba" />
-)
+
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
