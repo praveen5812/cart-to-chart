@@ -7,8 +7,7 @@ A complete end-to-end data analysis project analyzing customer shopping behavior
 ## 📊 Dashboard Preview
 
 
-![Customer Behavior Dashboard](dashboard.png)
-
+![Customer Behavior Dashboard](dashboard.png.jpeg)
 ---
 
 ## 📁 Project Structure
